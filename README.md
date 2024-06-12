@@ -4,7 +4,7 @@ from [Original Repo](https://github.com/ouster-lidar/ouster_example.git), commit
 
 This driver is for ROS1 Kinetic/Melodic/Noetic.
 
-[Up-to-date](https://github.com/ouster-lidar/ouster-ros) driver is available solely on ROS1 Noetic.
+[Up-to-date driver](https://github.com/ouster-lidar/ouster-ros) is available solely on ROS1 Noetic.
 
 
 This repository contains Ouster SDK source code for connecting to and configuring ouster sensors,
